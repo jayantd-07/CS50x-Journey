@@ -1,13 +1,25 @@
-# C Practice
+# CS50x Journey
 
-These are some small C programs that I made while learning C programming.
+This repository contains the programs and exercises I build while learning C through CS50x. The goal is to practice programming concepts, improve problem-solving skills, and track my progress throughout the course.
 
-access.c
+## Programs
 
-This program checks the user's tech tier and access code, then decides whether access should be granted or denied.
+### access.c
 
-game.c
+A simple access control program based on user input.
 
-This program checks the player's age, asks about VIP membership, and shows gameplay hours.
+### game.c
 
-I made these projects to practice conditions, loops, user input, and basic problem-solving in C.
+A basic game entry system using conditions and loops.
+
+### toggle_case.c
+
+Converts uppercase letters to lowercase and lowercase letters to uppercase.
+
+### hide_vowel.c
+
+Replaces vowels in the input with asterisks (*).
+
+---
+
+More programs will be added as I continue learning and practicing C.
