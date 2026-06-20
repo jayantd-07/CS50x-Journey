@@ -20,6 +20,10 @@ Converts uppercase letters to lowercase and lowercase letters to uppercase.
 
 Replaces vowels in the input with asterisks (*).
 
+### cargo_weight.c
+
+Compares the weight of two cargo names using custom letter weights.
+
 ---
 
 More programs will be added as I continue learning and practicing C.
