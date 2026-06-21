@@ -24,6 +24,10 @@ Replaces vowels in the input with asterisks (*).
 
 Compares the weight of two cargo names using custom letter weights.
 
+### player_search.c
+
+Searches for a player and displays their score using structs.
+
 ---
 
 More programs will be added as I continue learning and practicing C.
