@@ -28,6 +28,10 @@ Compares the weight of two cargo names using custom letter weights.
 
 Searches for a player and displays their score using structs.
 
+### live_swapping.c
+
+A bubble sort practice program that shows score swapping step by step.
+
 ---
 
 More programs will be added as I continue learning and practicing C.
