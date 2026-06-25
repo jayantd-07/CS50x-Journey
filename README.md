@@ -32,6 +32,10 @@ Searches for a player and displays their score using structs.
 
 A bubble sort practice program that shows score swapping step by step.
 
+### player_sort.c
+
+Sorts players by score using bubble sort while keeping names matched with their scores.
+
 ---
 
 More programs will be added as I continue learning and practicing C.
