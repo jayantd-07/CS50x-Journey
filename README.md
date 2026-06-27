@@ -36,6 +36,10 @@ A bubble sort practice program that shows score swapping step by step.
 
 Sorts players by score using bubble sort while keeping names matched with their scores.
 
+### player_name_sort.c
+
+Sorts players alphabetically by name using bubble sort while keeping scores matched with the correct players.
+
 ---
 
 More programs will be added as I continue learning and practicing C.
